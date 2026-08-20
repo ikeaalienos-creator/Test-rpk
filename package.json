@@ -1,7 +1,12 @@
 {
-  "name": "watch5lite-rpk-test",
+  "name": "RPK-Test",
   "version": "1.0.0",
+  "description": "RPK test for Redmi Watch",
   "scripts": {
-    "build": "quickapp build"
+    "build": "aiot build"
+  },
+  "devDependencies": {
+    "aiot-toolkit": "^2.0.5",
+    "@aiot-toolkit/jsc": "^1.0.3"
   }
 }
