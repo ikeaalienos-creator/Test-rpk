@@ -1,0 +1,7 @@
+{
+  "name": "watch5lite-rpk-test",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "quickapp build"
+  }
+}
