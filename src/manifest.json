@@ -1,0 +1,20 @@
+{
+  "package": "com.agatka.rpktest",
+  "name": "RPK Test",
+  "icon": "/common/icon.png",
+  "versionName": "1.0",
+  "versionCode": 1,
+  "minAPILevel": 1,
+  "router": {
+    "entry": "Index",
+    "pages": {
+      "Index": {
+        "component": "index",
+        "path": "/"
+      }
+    }
+  },
+  "display": {
+    "backgroundColor": "#000000"
+  }
+}
