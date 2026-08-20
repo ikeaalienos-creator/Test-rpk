@@ -1,4 +1,9 @@
 <script>
-export default {
-}
+  /**
+   * Application-level configuration
+   */
+  /**manifest**/
+
+  export default {
+  }
 </script>
