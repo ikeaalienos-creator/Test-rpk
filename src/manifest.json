@@ -5,6 +5,10 @@
   "versionName": "1.0",
   "versionCode": 1,
   "minAPILevel": 1,
+  "config": {
+    "logLevel": "log",
+    "designWidth": 480
+  },
   "router": {
     "entry": "Index",
     "pages": {
@@ -16,5 +20,8 @@
   },
   "display": {
     "backgroundColor": "#000000"
-  }
+  },
+  "deviceTypeList": [
+    "watch"
+  ]
 }
